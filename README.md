@@ -1,1 +1,1 @@
-# Student_feedback_Django
+This project implements a student feedback form using Django, aimed at collecting and analyzing feedback from students. It includes features for creating surveys, managing responses, and generating insightful reports. Built with Django's MVC architecture, it ensures scalability and modularity.
